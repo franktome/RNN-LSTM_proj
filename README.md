@@ -37,11 +37,6 @@ Implement RNN and LSTM only with numpy. We also compare the performance accordin
 - **GloVe**: 동시 등장 빈도 행렬을 기반으로 전체적인 단어 관계를 학습함.
 - 본 프로젝트에서는 감정 분류 작업에서 전역적 통계 정보를 포함한 GloVe가 더 효과적이라 판단하여 사용함.
 
-## 결과 시각화
-각 실험에서 얻은 Loss 및 Accuracy 그래프를 포함하여 비교 분석.
-
-(그래프 및 결과 예제 이미지 추가 가능)
-
 ## 실행 방법
 1. `glove.6B.50d.txt` 또는 `glove.6B.100d.txt`를 다운로드하여 프로젝트 폴더에 배치합니다.
 2. 아래 명령어를 실행하여 환경을 설정합니다.
